@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>SEMS编程社</title>
+    <!-- Bootstrap core CSS -->
+    <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
+      <div class="container"> <a class="navbar-brand" href="#">SEMS编程社</a>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item active"><a class="nav-link" href="#">关于我们</a>&nbsp;
+              <a class="nav-link" href="#"><span class="sr-only">(current)</span>
+              </a> </li>
+            <li class="nav-item"> <a class="nav-link" href="../index.html">主
+                页</a> </li>
+            <li class="nav-item"> <a class="nav-link" href="https://blog.sems-pc.club">博
+                客</a> </li>
+            <li class="nav-item"> <a class="nav-link" href="mailto:877259039@qq.com">
+                联系社长</a> </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!-- Page Content -->
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h1 class="mt-5">关于SEMS编程社</h1>
+          <div style="text-align: left; font-size:24px">
+            <h2>社团介绍：</h2>
+          </div>
+          <div style="text-align: left; font-size:24px">我们社团于2018年3月成立，前身为手机编程社，
+            2018年5月更名为SEMS编程社。</div>
+          <div style="text-align: left; font-size:24px">我们社团是不只是一个研究计算机编程技术的地方，更
+            是一个开放，自由的地方。</div>
+          <div style="text-align: left; font-size:24px">
+            <h2>我们的部门：</h2>
+          </div>
+          <div style="text-align: left; font-size:24px">手机编程部：前身为原手机编程社，主要学习、交流与研
+            究手机应用 （Android APP）开发以及应用的部门。</div>
+          <div style="text-align: left; font-size:24px">Python部：与2019年5月开始筹备，于
+            2019年9月份正式成立，主要学习、交流与研究Python语言和人工智
+            能技术的研究以及在校内外的应用的部门，并将一部分项目应用于校园生活。</div>
+          <div style="text-align: left; font-size:24px">技术和宣传部：主要是对新技术的探究以及活动期间
+            （如招新等）社团宣传工作。</div>
+          <div style="text-align: left; font-size:24px">美工/音乐：分散在手机编程部与Python部，但
+            对于程序开发来说也是不可缺少的一部分。</div>
+          <div style="text-align: left; font-size:24px">
+            <h2>历任社长：</h2>
+          </div>
+          <div style="text-align: left; font-size:24px">第一任：张一帆（2018-2019）</div>
+          <div style="text-align: left; font-size:24px">第二任：应骁琦（2019至今）</div>
+        </div>
+      </div>
+    </div>
+    <!-- Bootstrap core JavaScript -->
+    <script src="../vendor/jquery/jquery.slim.min.js"></script>
+    <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
